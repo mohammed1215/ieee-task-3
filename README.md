@@ -17,9 +17,9 @@
       -  `doesn't prevent garbage collection`
 - Write an example of a string which matches the following pattern:
   `const regex = /^(0[1-9]|[12]\d|3[01])[-\/](0[1-9]|1[0-2])[-\/]\d{4}$/;`
-  ** solution **
+### solution
   02-10-2025
   and write another string that violates the following pattern:
   `const regex = /^(?!.*\bieee\b).+$/i;`
-** solution **
+### solution
   ieee welcome here
